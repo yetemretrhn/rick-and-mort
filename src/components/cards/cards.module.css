@@ -1,0 +1,13 @@
+.cards{
+    border:2px solid black;
+    border-radius: 10px;
+}
+
+.img {
+    border-radius: 15px 15px 0z 0 ;
+}
+.badge{
+    top: 10px;
+    right: 20px;
+    font-size:20px;
+}
